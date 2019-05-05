@@ -1,0 +1,11 @@
+C:\repos\AWillDiag\AWillDiag\bin\Debug\netcoreapp2.2\AWillDiag.deps.json
+C:\repos\AWillDiag\AWillDiag\bin\Debug\netcoreapp2.2\AWillDiag.runtimeconfig.json
+C:\repos\AWillDiag\AWillDiag\bin\Debug\netcoreapp2.2\AWillDiag.runtimeconfig.dev.json
+C:\repos\AWillDiag\AWillDiag\bin\Debug\netcoreapp2.2\AWillDiag.dll
+C:\repos\AWillDiag\AWillDiag\bin\Debug\netcoreapp2.2\AWillDiag.pdb
+C:\repos\AWillDiag\AWillDiag\obj\Debug\netcoreapp2.2\AWillDiag.csprojAssemblyReference.cache
+C:\repos\AWillDiag\AWillDiag\obj\Debug\netcoreapp2.2\AWillDiag.csproj.CoreCompileInputs.cache
+C:\repos\AWillDiag\AWillDiag\obj\Debug\netcoreapp2.2\AWillDiag.AssemblyInfoInputs.cache
+C:\repos\AWillDiag\AWillDiag\obj\Debug\netcoreapp2.2\AWillDiag.AssemblyInfo.cs
+C:\repos\AWillDiag\AWillDiag\obj\Debug\netcoreapp2.2\AWillDiag.dll
+C:\repos\AWillDiag\AWillDiag\obj\Debug\netcoreapp2.2\AWillDiag.pdb
